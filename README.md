@@ -1,4 +1,4 @@
-# Perfect 500k Beauty Product Image Recognition Challenge
+#  Perfect Half Million Beauty Product Image Recognition Challenge
 
 
 Our solution for [Perfect Half Million Beauty Product Image Recognition Challenge
