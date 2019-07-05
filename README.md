@@ -7,7 +7,7 @@ Our solution for [Perfect Half Million Beauty Product Image Recognition Challeng
 
 ### Requirement
 - python 3.5
-- pytorch 1.0.1
+- pytorch 1.1.0
 - PIL
 - torchvision
 - pretrainedmodels
