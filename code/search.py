@@ -23,13 +23,16 @@ def load_feature(feat_name):
     return name,feature
 
 if __name__ == "__main__":
-    test_image_path=sys.argv[1]
-    result_path=sys.argv[2]
+    #test_image_path=sys.argv[1]
+    #result_path=sys.argv[2]
+    
+    test_image_path='./test'
+    result_path='./result/result.csv'
 
     se_path='./pretrained/seresnet152.t7'
     dense_path='./pretrained/densenet201.t7'
     se_feature_path='./feature/feat_seresnet152.pkl'
-    dense_feature_path='./feature/feat_dense201.pkl'
+    dense_feature_path='./feature/feat_densenet201.pkl'
 
     name_list,dense_feature=load_feature(dense_feature_path)
     name_list,senet_feature=load_feature(se_feature_path)
