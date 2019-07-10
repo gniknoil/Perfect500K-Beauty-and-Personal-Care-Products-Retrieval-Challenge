@@ -47,5 +47,5 @@ This is our solution for [Perfect Half Million Beauty Product Image Recognition 
   
 ### Note
 
-All the models are all pretrained on the Imagenet. They can be downloaded automatically  when using these models with module [pretrainedmodels](https://github.com/Cadene/pretrained-models.pytorch).
+All the models are all pretrained on the Imagenet. They can be downloaded frmo module [pretrainedmodels](https://github.com/Cadene/pretrained-models.pytorch). 
 
